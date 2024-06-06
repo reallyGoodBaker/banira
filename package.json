@@ -1,0 +1,19 @@
+{
+  "name": "banira",
+  "version": "0.0.1",
+  "description": "Light framework for vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reallyGoodBaker/banira.git"
+  },
+  "author": "reallyGoodBaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reallyGoodBaker/banira/issues"
+  },
+  "homepage": "https://github.com/reallyGoodBaker/banira#readme"
+}
